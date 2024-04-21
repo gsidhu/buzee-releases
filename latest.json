@@ -1,0 +1,11 @@
+{
+  "version": "v0.1.0",
+  "notes": "First test version. Does this show up in the notes?",
+  "pub_date": "2024-04-21T15:15:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROEJIR1YwSUZhblBNY0hUbGFRWGVKVnhJeWprU3I4N3o1SXFhNm9rQk9iSXlzcDRiRDRvSzB5WVhZSmpCNVdlb0YyUVhaRm44NjdaQnBvWnFyRGx0bEdJSzFaaHc2eFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzNjk1OTgxCWZpbGU6QnV6ZWUuYXBwLnRhci5negpDcXNOSURWeU0yQXpZamJTQTRGQzMwRmtaNWhSZEV3Z0ZjbnlYVFI0ZXY0aGp3RG8yKzhrQkRiZGhQcWIzeXBYNDBSV0RNeXcvakRBWTdRYnZpODJEQT09Cg==",
+      "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.1.0/Buzee.app.tar.gz"
+    }
+  }
+}
