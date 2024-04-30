@@ -1,11 +1,19 @@
 {
   "version": "v0.1.0",
-  "notes": "First test version. Does this show up in the notes?",
-  "pub_date": "2024-04-21T15:15:00Z",
+  "notes": "This is the first public beta version of Buzee. Read more at https://buzee.co/",
+  "pub_date": "2024-04-30T21:00:00Z",
   "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROEJIR1YwSUZhbkorQ0VmMzhpZjJQSXBieEMyMzRIL3NVTGl0bHYzSG8rYnpiMWtYdXc5NFhhQ3I1cEJhaEgyVGhyTkVER0ErdWpKVTlUTUJCNEgvcmhHTGkrV1A1K3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0NDkxNDcwCWZpbGU6QnV6ZWUuYXBwLnRhci5negpCVzlzU2ZnSHA0VTNKbzVJN0lBcEVnem5EOStLUVUweUcrS0oyWXZNakp3UjRtUnJHTm5iWUJ1bWpwRzJMNC9laFp4ZURnQ09VRkk4RTJTaWs5TmtBQT09Cg==",
+      "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.1.0/Buzee-Intel.app.tar.gz"
+    },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROEJIR1YwSUZhbkZtYVhLZXJMenoxb1g3SUVST2VRQm1NaHVwTGJRaDIwaFNyOS9GOFMyR0ROdG13MVlMSDJYZ1U4N3c3UlM4TUE4aFB6d2JNZzRKWVUrSUlHbEkzZVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzNjk4MDM1CWZpbGU6QnV6ZWUuYXBwLnRhci5negp6c1ZKTXFZc3REbFBUaHc4MUdKdFlieDN2ay9lYlN4MVFxR2NBMmduWHFZYzZGcStDMGxZU2R1SEtqUmF4cTlNMnpPbGh1V1VDY3A0c1dVellpdzBEUT09Cg==",
-      "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.1.0/Buzee.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROEJIR1YwSUZhbkhKeHcvbjRkRC9WanJyZk5vSVdQdVliMXJuZG9MaTBXa3ExdXY0Qm51NDJ1TmVDVTFBSG9BeTEyYmprSE1zYUtMU2dqOXlRVE5pZXlkeXYyMXhNWGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0NDkxMzY4CWZpbGU6QnV6ZWUuYXBwLnRhci5negpPMzRPVHpMR1VLV0pxOWdWUzkrZDdKeFZUa2V5L3lUYlM1cWxmcGdSQ0xrQ2NDTE5EY2M1UVp4aStTUjJYRDhyUmpaSnpzc2dKMVg4czJCNkE2czZBQT09Cg==",
+      "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.1.0/Buzee-Apple-Silicon.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.1.0/Buzee-Windows.nsis.zip"
     }
   }
 }
