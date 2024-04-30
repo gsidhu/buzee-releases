@@ -1,6 +1,6 @@
 {
-  "version": "v0.1.1",
-  "notes": "This is the second public beta version of Buzee. Read more at https://buzee.co/",
+  "version": "v0.1.0",
+  "notes": "This is the first public beta version of Buzee. Read more at https://buzee.co/",
   "pub_date": "2024-04-30T21:00:00Z",
   "platforms": {
     "darwin-x86_64": {
@@ -12,8 +12,8 @@
       "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.1.0/Buzee-Apple-Silicon.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROEJIR1YwSUZhbk5pdHg4dVc0VWRkYS80RUJ6UlJRSkdrOG4vOS9oV1RmVUJQbTFHQno3SGN4WkhERi9wZWl4QTFkRlk1bnI5YW96WHBQYnF4R1VwVEhGQjBlV3JSMUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0NDk1NDA2CWZpbGU6QnV6ZWVfMC4xLjFfeDY0LXNldHVwLm5zaXMuemlwCk9wZHptaGlkbDNnRldzcjRIQkp2Z2s0R2w4bWZLMFE0QXpFTm52bUJyMFVpcUZwUDE3azdZOXAySXVtSFQzN0ZacTBLMld6TjJMWk9uTWVtSW5IWUNRPT0K",
-      "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.1.1/Buzee-Windows.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROEJIR1YwSUZhbkJibHl3eVlCS21QRnFjRVpSaGVrZEJ3MHNKM1FwTmhlWDJjOTVHd29kdUhRbDVzYlFVNGtsR0JnSGt4L1ZDNEg3OFc2d2xid3llRnlvMGxpL2dKOUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0NDkzMTc2CWZpbGU6QnV6ZWVfMC4xLjBfeDY0LXNldHVwLm5zaXMuemlwCklHNmswaHc2RE83Z0hvcDZTMWxnT256aFlQTnl2KzRTM1BIelBFTkxkTjUxYjVtTUxBY0k2NWU0R253SkkvZzZBaUQraTdqM2Y0L3BvUVFtSU1lb0FnPT0K",
+      "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.1.0/Buzee-Windows.nsis.zip"
     }
   }
 }
