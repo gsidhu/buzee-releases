@@ -1,15 +1,15 @@
 {
-  "version": "v0.1.0",
-  "notes": "This is the first public beta version of Buzee. Read more at https://buzee.co/",
+  "version": "v0.1.1",
+  "notes": "Icon view! Click on the button in the Status Bar to switch between icon grid and list view. Read more at https://buzee.co/changelog",
   "pub_date": "2024-04-30T21:00:00Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROEJIR1YwSUZhbkorQ0VmMzhpZjJQSXBieEMyMzRIL3NVTGl0bHYzSG8rYnpiMWtYdXc5NFhhQ3I1cEJhaEgyVGhyTkVER0ErdWpKVTlUTUJCNEgvcmhHTGkrV1A1K3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0NDkxNDcwCWZpbGU6QnV6ZWUuYXBwLnRhci5negpCVzlzU2ZnSHA0VTNKbzVJN0lBcEVnem5EOStLUVUweUcrS0oyWXZNakp3UjRtUnJHTm5iWUJ1bWpwRzJMNC9laFp4ZURnQ09VRkk4RTJTaWs5TmtBQT09Cg==",
-      "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.1.0/Buzee-Intel.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROEJIR1YwSUZhbk1zdTNaUGF2UHFXeXJpUnpMdlAvQkY4a1F1emFVUUFZNW1rL3VYL0UvWHVIUUllS3pRcUszSFBteHU0SFFOVmx3TWJpL2JrTC9LWEdJaGtFTUM5RWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0ODQ5Mzc0CWZpbGU6QnV6ZWUuYXBwLnRhci5negppTlJZTFFnSThISnkvTSt6ZC90UUJvbDh5NTlNNnZ4R1JNbkpvT05ZNmc3eUdTOTJ4SWZsUlcxc2ZVdGlkSzQxblJ3Q2NLSnJxb1V5VzZvT2VSYTREQT09Cg==",
+      "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.1.1/Buzee-Intel.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROEJIR1YwSUZhbkhKeHcvbjRkRC9WanJyZk5vSVdQdVliMXJuZG9MaTBXa3ExdXY0Qm51NDJ1TmVDVTFBSG9BeTEyYmprSE1zYUtMU2dqOXlRVE5pZXlkeXYyMXhNWGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0NDkxMzY4CWZpbGU6QnV6ZWUuYXBwLnRhci5negpPMzRPVHpMR1VLV0pxOWdWUzkrZDdKeFZUa2V5L3lUYlM1cWxmcGdSQ0xrQ2NDTE5EY2M1UVp4aStTUjJYRDhyUmpaSnpzc2dKMVg4czJCNkE2czZBQT09Cg==",
-      "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.1.0/Buzee-Apple-Silicon.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROEJIR1YwSUZhbkszdzlUUWpZZDV2QzVuVjdXeW9Zc3BtS3BTTVpZMTFwdk8wbXEydko1OGZzWVhxZ0w5RzBCTDdtR3VFb0NLdlhDV3Fza1RVWEhhV2V2LzFyMmxra3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0ODQ5MTY2CWZpbGU6QnV6ZWUuYXBwLnRhci5nego0RWRyem1BdVhnYWp2eGh1MnhkazBXdWNxM3p2bTBqZUd3SkJHbE1rbjdXajg5VEVrVU5KVEwyOERSQXVMc0U2bk9lam9UK1dpWjc5akhzM1JmVlVEdz09Cg==",
+      "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.1.1/Buzee-Apple-Silicon.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROEJIR1YwSUZhbkJibHl3eVlCS21QRnFjRVpSaGVrZEJ3MHNKM1FwTmhlWDJjOTVHd29kdUhRbDVzYlFVNGtsR0JnSGt4L1ZDNEg3OFc2d2xid3llRnlvMGxpL2dKOUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0NDkzMTc2CWZpbGU6QnV6ZWVfMC4xLjBfeDY0LXNldHVwLm5zaXMuemlwCklHNmswaHc2RE83Z0hvcDZTMWxnT256aFlQTnl2KzRTM1BIelBFTkxkTjUxYjVtTUxBY0k2NWU0R253SkkvZzZBaUQraTdqM2Y0L3BvUVFtSU1lb0FnPT0K",
