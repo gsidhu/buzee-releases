@@ -12,8 +12,8 @@
       "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.2.0/Buzee-Mac-Apple-Silicon.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "",
-      "url": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROEJIR1YwSUZhbklneVBkUHJTRE9wbzVpaHJhQWE3NFFUTUJhcUZoYkx2YmdEaUZFL0p4K2pIYk5OYXJiV1k0OVNjUTlGK3ZPZUZGR2NqYnpTdnFHT1hxamZ5dFpFL2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0MTgyNjQ3CWZpbGU6QnV6ZWVfMC4yLjBfeDY0LXNldHVwLmV4ZQp0TGJmQ01pK2JXNTIxTlFnSmFHZHMvY1hLMGViUGd5TzVNeVZwVjU4MFdaRHRWbktIQWJjcU5JcmtQYVV4RU1IZ3YvcTY1Y2dNVGhFZXlJaWdncklDUT09Cg==",
+      "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.2.0/Buzee-Windows.nsis.zip"
     }
   }
 }
