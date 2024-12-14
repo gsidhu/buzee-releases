@@ -1,6 +1,6 @@
 {
   "version": "v0.2.0",
-  "notes": "Icon view! Click on the button in the Status Bar to switch between icon grid and list view. Read more at https://buzee.co/changelog",
+  "notes": "New UI! Read more at https://buzee.co/changelog",
   "pub_date": "2024-12-14T18:40:00Z",
   "platforms": {
     "darwin-x86_64": {
