@@ -1,15 +1,15 @@
 {
-  "version": "v0.2.0",
-  "notes": "New UI! Read more at https://buzee.co/changelog",
-  "pub_date": "2024-12-14T18:40:00Z",
+  "version": "v0.2.1",
+  "notes": "Updated internal dependencies.",
+  "pub_date": "2024-12-18T18:40:00Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROEJIR1YwSUZhbkk4RnBQam4vRjg4Z0tpcE1TVUtmRlVqbzZlOU45NmhyT2MvRDBrL0ZQdXg0d3YzdENxeENWU3pzaUlZZFZ4RHEvcFpVZWJ6TVBPZEZ4SjFBcG0xL3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0MTgyMDY1CWZpbGU6QnV6ZWUuYXBwLnRhci5nego2enlEK1dRSC9sbDVUb09LaVBhcUlSYnU5bG5BbGFqb2pvRGRKekxTN1cvWEtjcHdhSDhMcE45RWRWeGY3dE5sQVc2RWE1eGlNNXJCSEkyUWhXUE9CQT09Cg==",
-      "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.2.0/Buzee-Mac-Intel.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROEJIR1YwSUZhbkd1cEE5VVUzVUxrRmF0bU5RNnJGUGhQZnJlc3JtcDlQeTBnR0JHWWszVUhISlR2L3czTG9XSHMvK2wxdktNcERvUXRBWUF3a1c2ekxSKzcvVUpLVmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0NTI4MTMxCWZpbGU6QnV6ZWUuYXBwLnRhci5negp0VGpRZGx3Sm9YVVJPSU1IQ3pRRTNxTEh4b1U1VmN5NFRyWmJKUDZOSnN3SFhFNWlQbjgwdVdodE1YYTFPMHVVeTIwN2piVUhCQmdYaHgwUzdlb3VEZz09Cg==",
+      "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.2.1/Buzee-Mac-Intel.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROEJIR1YwSUZhbkdVQzZuQ3p2Y2NTWEtrcE10cndkbXpqdmRKbWpqYUV1ZWpLWHE4elhMMEthOWVidERnaGt1Q2MzYlIzdEdVSUNBSk95WWE1dDhPVFNqQzF6Q1Y2ckFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0MTgxNjg5CWZpbGU6QnV6ZWUuYXBwLnRhci5negpTcC9Ub1Z6ZFpLQkpLSkRKRTJGYVdzam9UczFWejNlT2svQy9heTBGWXpJbWdFTUN3RkZhTkpxTmJ4UmgzM2RtL3ZyU2g2TVdRQkxmUHlkVzlhRnVBQT09Cg==",
-      "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.2.0/Buzee-Mac-Apple-Silicon.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROEJIR1YwSUZhblB5azNqcU9TaUlFbHkwaTRuYmRocnE1TFBMM2lKbnZ3M0lxZTBDSUlOVyszTWpncjh0cy8vcU5YSDhRd0hRMlhPUGhlSjFmVjh5ZWI5UG0vOEp1elFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0NTI3ODg5CWZpbGU6QnV6ZWUuYXBwLnRhci5negoyalVIOVVVTkdscmdKUjJkai9JcXBkdjREalh0YVA2NVpPSktNSWJFdnpTQ25XeloyK0U4OGRZTHNleXJEUkMxTCtVTW1EY0Y3eXJMcFZpaDRKdkhCdz09Cg==",
+      "url": "https://github.com/gsidhu/buzee-releases/releases/download/v0.2.1/Buzee-Mac-Apple-Silicon.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "",
